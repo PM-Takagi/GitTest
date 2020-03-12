@@ -1,0 +1,3 @@
+[submodule "GitTest/Assets/Sprites"]
+	path = GitTest/Assets/Sprites
+	url = https://PM-Takagi@github.com/PM-Takagi/GitTest-Sprite.git
